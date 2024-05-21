@@ -1,6 +1,6 @@
 ### 🧙🏻‍♂️ Hello .<br><hr>
 <br>
-<h2>Tech, I have used professionally or at an amateur level, or I am interested in.</h2>
+<h3>Tech, I have used professionally or at an amateur level, or I am interested in.</h2>
 <br>
 
 Framework\Tech<br>
